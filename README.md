@@ -12,7 +12,11 @@
 [Project Supervisor](#project-supervisor)  
 [Versioning Strategy](#versioning-strategy)  
 [References](#references)
-# Develop a VR Game In Unreal Engine 4: **_Breaching Light_**
+# Develop a VR Game In Unreal Engine 4: **_Breaching Light_**  
+  
+  Game files have not been uploaded due to filesize restrictions (Game Filesize: 7GB)
+  
+  
 ## **Abstract**
 I have developed a Virtual Reality survival game, utilising the game development engine known as Unreal Engine 4. The name of my game is **_Breaching Light_** as it effectively portrays the in-game aesthetics, gameplay and style I have chosen. 
 The player will fight off endless waves of enemies in multiple virtual environments, utilising tools, weapons and special items found to aid them in their survival. I focused on ensuring that each weapon and tool found is diverse and will offer the player a new way to play. Using guns, melee weapons, throwing weapons and much more, the player will attempt to claim a prestigious place on the leader board as each kill gets them that one step closer to a high score. The player can then use the score accumulated to purchase in-game weapons and tools from the item shop. I have added many features focused solely around virtual interaction to ensure that the player is fully immersed in their environment. I have designed and developed two playable levels, each with extremely diverse art styles, one of which is set in a dark and spooky forest at night where the player must rely on their flashlight and the tools found to survive. The other map I have developed is an ancient gladiator arena. The player has the choice of which they venture to first. In addition to these two maps, I have also developed a fully interactable main menu, which the player can virtually interact with and move around.
